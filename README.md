@@ -1,7 +1,7 @@
-👋 Hi, I'm Arga Hutama, Sr. Android Developer at OKHome Indonesia
+👋 Hi, I'm Salih Arya Gumilang, Sr. Informathic Engineering Student at Ahmad Dahlan University
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arga_Hutama-1ca0f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/argahutama)](https://www.linkedin.com/in/argahut/)<br/>
-[![Gmail Badge](https://img.shields.io/badge/-argahut@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:argahut@gmail.com)](mailto:argahut@gmail.com)<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-Salih_Arya-1ca0f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryagumilang)](https://www.linkedin.com/in/argahut/)<br/>
+[![Gmail Badge](https://img.shields.io/badge/-saliharya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saliharya@gmail.com)](mailto:saliharya@gmail.com)<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages & Tools
@@ -21,4 +21,4 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=argahutama&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=saliharya&show_icons=true)
