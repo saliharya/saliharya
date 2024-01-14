@@ -1,4 +1,7 @@
-👋 Hi, I'm Salih Arya Gumilang, Informatics Engineering Student at Ahmad Dahlan University
+👋 Hi, I'm Salih Arya Gumilang,
+Android Developer Cohort at Bangkit Academy, led by Google, Tokopedia, Gojek & Traveloka. | Undergraduate Informatics Engineering Student
+
+Active learner 👨💻 Interested in Android development.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Salih_Arya-1ca0f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryagumilang)](https://www.linkedin.com/in/aryagumilang/)<br/>
 [![Gmail Badge](https://img.shields.io/badge/-saliharya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saliharya@gmail.com)](mailto:saliharya@gmail.com)<br/>
